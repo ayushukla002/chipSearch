@@ -1,0 +1,22 @@
+/* Chip.css */
+.chip {
+    display: inline-block;
+    background-color: #e0e0e0;
+    padding: 8px;
+    margin: 4px;
+    border-radius: 16px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .chip span {
+    margin-left: 8px;
+    cursor: pointer;
+    color: #888;
+  }
+  
+  .chip span:hover {
+    color: #e74c3c; /* Change color on hover (you can customize) */
+  }
+  
